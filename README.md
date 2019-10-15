@@ -1,2 +1,3 @@
 # gcloud
-Google Cloud CLI + kubectl
+Google Cloud CLI + kubectl in docker image for runing.
+
